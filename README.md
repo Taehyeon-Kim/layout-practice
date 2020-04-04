@@ -2,7 +2,7 @@
 
 practice for web publishing, layout configuration
 
-## contents
+## Contents
 
 `layout01`
 
@@ -14,3 +14,7 @@ practice for web publishing, layout configuration
 `layout02`
 
 - 🏷 clear: both - (기존에 적용되었던 float의 속성을 지우기 위해 사용)
+
+`layout03`
+
+- 🏷 블로그에서 자주 보이는 레이아웃
