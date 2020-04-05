@@ -36,3 +36,17 @@ practice for web publishing, layout configuration
 - 🏷 layout05 에서 코드 간결화
 - 🏷 height: inherit; - (높이 상속)
 - 🏷 rgba(0,0,0,0.3)
+
+`layout07`
+
+- 🏷 전체적인 틀 잡을 때는 id(#)를 많이 사용, 반복되는 부분에는 class(.)을 사용
+- 🏷 명명이랑 주석처리는 항상 깔끔하게 하기
+- 🏷 큰틀부터 컨테이너까지 하나씩 접근
+- 🏷 `DOTHOME` : 무료호스팅 (3개까지가능)
+
+`layout08`
+
+- 🏷 전체 사이트 만들기 시작
+- 🏷 html, css 파일 분리
+- 🏷 `@charset "utf-8"` : css 한글 깨지지 않기 위해 추가
+- 🏷 reset.css 생성 : 사용할 태그에 대해서 css 여백 초기화
