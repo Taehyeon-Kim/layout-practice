@@ -30,3 +30,9 @@ practice for web publishing, layout configuration
 - 🏷 전체 영역 작업 > 컨테이너(::가운데) 영역
 - 🏷 width: 100%; - (기본값)
 - 🏷 자식 요소의 height값이 있으면 부모 요소의 height값은 없어도 됨
+
+`layout06`
+
+- 🏷 layout05 에서 코드 간결화
+- 🏷 height: inherit; - (높이 상속)
+- 🏷 rgba(0,0,0,0.3)
