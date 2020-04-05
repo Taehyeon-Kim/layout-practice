@@ -18,3 +18,7 @@ practice for web publishing, layout configuration
 `layout03`
 
 - 🏷 블로그에서 자주 보이는 레이아웃
+
+`layout04`
+
+- 🏷 전체 콘텐츠를 감싸는 컨테이너의 크기 지정해주기
