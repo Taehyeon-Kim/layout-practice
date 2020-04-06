@@ -59,3 +59,9 @@ practice for web publishing, layout configuration
 - 🏷 a 태그 id명으로는 바로 접근 가능
 - 🏷 position: absolute; - (절대적인 위치, 영역을 내 마음대로 움직임 가능, 영역이 붕 뜰 수 있음)
 - 🏷 웹 표준 참고 `네이버 웹표준 널리` `다음 웹표준 다음` `웹접근성 연구소`
+
+`헤더 배경 및 메뉴`
+
+- 🏷 인라인 요소는 크기가 없다. 부모 요소의 영향을 받음.
+- 🏷 display: inline-block (인라인 요소와 블록 요소의 성질을 모두 가짐.)
+- 🏷 css에서도 부모와 자식과의 관계를 알기 쉽게 써놓는 것이 중요.
