@@ -78,3 +78,7 @@ practice for web publishing, layout configuration
 - 🏷 3. 요즘에는 이미지를 background 속성으로 많이 표현 / 가상으로 대체 문자를 만들어 준다(IR 효과) (이미지 스프라이트 기법 이용)
 - 🏷 의미가 있을 때와 없을 때를 구분해서 작업
 - 🏷 IR 기법 : CSS 기법을 사용하여 이미지 대체텍스트를 제공할 수가 있다.
+
+`전체 메뉴`
+
+- 🏷 overflow: hidden; - (float:left;를 사용한 요소 상위 요소에 사용::깨짐방지)

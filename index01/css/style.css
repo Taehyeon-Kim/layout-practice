@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/* 레이아웃 */
+#wrap {
+  width: 100%;
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#side {
+  float: right;
+  width: 100px;
+  height: 1000px;
+  line-height: 1000px;
+  background: #444;
+}
+#header {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  background: #111;
+}
+#contents {
+  width: 100%;
+  height: 750px;
+  background: #222;
+}
+#footer {
+  width: 100%;
+  height: 150px;
+  line-height: 150px;
+  background: #333;
+}
+
+/* 컨텐츠 레이아웃 */
+#cont_ban {
+  float: right;
+  width: 1000px;
+  height: 750px;
+  line-height: 750px;
+  background: #666;
+}
+#cont_tit {
+  width: 600px;
+  height: 450px;
+  line-height: 450px;
+  background: #777;
+}
+#cont_btn {
+  width: 600px;
+  height: 300px;
+  line-height: 300px;
+  background: #888;
+}
+
+/* 컨테이너 */
+.container {
+  width: 1600px;
+  margin: 0 auto;
+  height: inherit;
+  background: rgba(0, 0, 0, 0.3);
+}
