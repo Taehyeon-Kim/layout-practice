@@ -82,3 +82,8 @@ practice for web publishing, layout configuration
 `전체 메뉴`
 
 - 🏷 overflow: hidden; - (float:left;를 사용한 요소 상위 요소에 사용::깨짐방지)
+
+`전체 타이틀`
+
+- 🏷 position: absolute; - (영역을 없앰 / 절대적 위치 / 반응형에서는 잘 사용하지 않음)
+- 🏷 position: relative; - (absolute의 기준점을 잡아줌)
